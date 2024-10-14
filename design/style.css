@@ -17,6 +17,8 @@ body {
     padding: 2rem;
     max-width: 40rem;
     width: 100%;
+    margin: 40px auto; /* add this line */
+    padding: 20px;
 }
 
 .container img {
