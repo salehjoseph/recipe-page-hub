@@ -1,0 +1,135 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.attribution { font-size: 11px; text-align: center; padding-top: 25px; }
+.attribution a { color: hsl(228, 45%, 44%); text-decoration: none;}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+    max-width: 40rem;
+    width: 100%;
+}
+
+.container img {
+    border-radius: 0.5rem;
+    width: 100%;
+    height: auto;
+}
+
+.container h1 {
+    font-family: 'Young Serif', serif;
+    font-size: 1.875rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+}
+
+.container p {
+    color: hsl(30, 10%, 34%);
+    margin-top: 0.5rem;
+    font-size: 1rem;
+}
+
+.preparation-time {
+    background-color: hsl(330, 100%, 98%);
+    padding: 1rem;
+    border-radius: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.container .preparation-time h2 {
+    color: #6F2F4A;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.preparation-time ul {
+    margin-top: 0.5rem;
+    color: hsl(30, 10%, 34%);
+}
+
+.preparation-time ul li {
+    margin-bottom: 0.5rem;
+}
+
+.container h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    color: hsl(14, 45%, 36%);
+}
+.ingredients{
+    font-family: 'Young Serif', serif;
+}
+.ingredients ul,
+.instructions ol {
+    margin-top: 0.5rem;
+    color: hsl(30, 10%, 34%);
+}
+
+.ingredients ul li,
+.instructions ol li {
+    margin-bottom: 0.5rem;
+}
+
+.instructions ol {
+    list-style-type: decimal;
+    padding-left: 1.5rem;
+}
+
+.instructions ol li {
+    margin-bottom: 0.5rem;
+}
+
+.instructions ol li strong {
+    font-weight: 600;
+}
+.instructions{
+    font-family: 'Young Serif', serif;
+}
+.nutrition {
+    font-family: 'Young Serif', serif;
+}
+
+.nutrition p {
+    color: #111;
+    margin-top: 0.5rem;
+}
+
+.nutrition-grid {
+    display: flex;
+    justify-content: space-between; 
+    margin-top: 1rem;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nutrition-break {
+    background-color: hsl(30, 10%, 34%);
+    height: 0.8px; 
+    width: 100%;
+    margin: 1rem 0;
+    opacity: 0.2; 
+}
+
+.nutrition-quantity {
+    color: hsl(14, 45%, 36%);
+    text-align: right; 
+    min-width: 25px; 
+}
+.break{
+    background-color: hsl(30, 10%, 34%);
+    height: 0.8px; 
+    width: 100%;
+    margin: 2rem 0rem;
+    opacity: 0.2; 
+}
+
