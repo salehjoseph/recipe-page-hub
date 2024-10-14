@@ -17,7 +17,7 @@ This project is a responsive recipe page created as part of the Frontend Mentor 
 
 ## Demo
 
-You can view the live demo of the project [here](https://josephsaleh.github.io/recipe-page-hub).
+You can view the live demo of the project [here](https://salehjoseph.github.io/recipe-page-hub/).
 
 ## Technologies Used
 
