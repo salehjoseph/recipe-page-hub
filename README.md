@@ -49,4 +49,4 @@ cd recipe-page
 
 This project helped me enhance my HTML and CSS skills, particularly in creating responsive designs. I enjoyed the challenge of translating a static design into a functional web page.
 
-Thanks to [frontend Mentor](https://www.frontendmentor.io/)
+Thanks to [frontend Mentor](https://www.frontendmentor.io/) 🚀🚀
